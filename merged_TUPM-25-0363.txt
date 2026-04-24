@@ -1,4 +1,0 @@
-Welcome Roxie Nacional (ID:TUPM-25-0363) to File Handling in Python!
-3: LINE 3
-2: LINE 2
-1: LINE 1
