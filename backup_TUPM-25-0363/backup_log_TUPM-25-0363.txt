@@ -1,0 +1,16 @@
+Student: Nacional, Roxie (TUPM-25-0363)
+Original: lab_test.txt
+Timestamp: 2026-04-25 21:45:47
+Size: 46 bytes
+Path: C:\Users\ADMIN\Documents\Nacional_Activity_5\backup_TUPM-25-0363\lab_test_TUPM-25-0363_20260425_214547.txt
+--------------------------------------------------
+Student: Nacional, Roxie (TUPM-25-0363)
+Original: intro_2025XXXX.txt | Backup: intro_2025XXXX_TUPM-25-0363_20260425_214630.txt
+Timestamp: 2026-04-25 21:46:30
+Size: 41 bytes
+--------------------------------------------------
+Student: Nacional, Roxie (TUPM-25-0363)
+Original: lab_test.txt | Backup: lab_test_TUPM-25-0363_20260425_214630.txt
+Timestamp: 2026-04-25 21:46:30
+Size: 46 bytes
+--------------------------------------------------

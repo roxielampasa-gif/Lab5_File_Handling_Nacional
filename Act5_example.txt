@@ -1,0 +1,5 @@
+Hello, Welcome to Python Programming!
+File saved safely with pathlib.Python makes file handling easy!
+This line was added!
+Line from a list: Learning file I/O is fun.
+Line from a list: Python is powerful for ECE students.
